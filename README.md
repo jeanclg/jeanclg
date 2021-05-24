@@ -1,5 +1,8 @@
 # Hi, I'm Jean Garcia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+
+[<img align="left" alt="jeanclg | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
+
 <br>
 <br>
 
