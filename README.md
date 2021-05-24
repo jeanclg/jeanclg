@@ -1,13 +1,13 @@
 # Hi, I'm Jean Garcia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-15AB89?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeanclg)](https://www.linkedin.com/in/jeanclg) 
 [![Hotmail Badge](https://img.shields.io/badge/-Outlook-15AB89?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:jean_clg@hotmail.com)](mailto:jean_clg@hotmail.com)
 
-<br>
-<br>
-
 ![](https://www.codewars.com/users/jeanclg/badges/micro)
+
+### **I'm a Back-End Developer!**
+
+ 🎖️      I recently graduated Ironhack's Bootcamp and now I'm looking for an opportunity as a back-end developer.
 
 ### GitHub Stats
 
