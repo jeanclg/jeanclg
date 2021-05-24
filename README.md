@@ -2,6 +2,7 @@
 
 
 [<img align="left" alt="jeanclg | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
+[<img align="left" alt="jean_clg | Hotmail" width="22px" src="./hotmail.svg" />][hotmail]
 
 <br>
 <br>
