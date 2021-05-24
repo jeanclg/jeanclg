@@ -1,8 +1,7 @@
 # Hi, I'm Jean Garcia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-[<img align="left" alt="jeanclg | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
-[<img align="left" alt="jean_clg | Hotmail" width="22px" src="./hotmail.svg" />][hotmail]
+<a href="https://linkedin.com/in/jeanclg" target="_blank"><img align="left" alt="Jean Garcia | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 
 <br>
 <br>
