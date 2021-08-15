@@ -43,6 +43,7 @@
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Jetbrains](https://img.shields.io/badge/-Jetbrains-02C6D1?style=flat&logo=jetbrains&logoColor=white)
+![Vim](https://img.shields.io/badge/-Vim-00210B?style=flat&logo=vim&logoColor=white)
 
 #### DevOps:
 
