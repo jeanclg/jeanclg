@@ -7,8 +7,6 @@
 
 ### **I'm a Back-End Developer!**
 
- 🎖️      I graduated Ironhack's Bootcamp and now I'm looking for an opportunity as a back-end developer.
-
 ### GitHub Stats
 
 ![Jean Garcia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanclg&theme=merko&show_icons=true)
